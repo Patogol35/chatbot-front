@@ -1,5 +1,5 @@
 import {Container,Typography} from "@mui/material";
-import ChatBox from "./components/ChatBox";
+import ChatBox from "./components/Chatbox";
 
 
 function App(){
